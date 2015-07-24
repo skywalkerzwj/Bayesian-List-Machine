@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ce07fe1-55ec-4837-8ae5-fc119097d17d" name="Default" comment="" />
+    <ignored path="Bayesian List Machine.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Bayesian List Machine$prepare_pandas.coverage" NAME="prepare_pandas Coverage Results" MODIFIED="1437541886609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bayesian List Machine$data_process.coverage" NAME="data_process Coverage Results" MODIFIED="1437460679424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bayesian List Machine$BRL_code.coverage" NAME="BRL_code Coverage Results" MODIFIED="1437528688153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Bayesian List Machine" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="BRL_code.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BRL_code.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="3740" max-vertical-offset="4403">
+              <caret line="664" column="12" selection-start-line="664" selection-start-column="12" selection-end-line="664" selection-end-column="12" />
+              <folding>
+                <element signature="e#4801#7605#0" expanded="false" />
+                <element signature="e#7717#7732#0" expanded="false" />
+                <element signature="e#7921#7993#0" expanded="false" />
+                <element signature="e#8214#9019#0" expanded="false" />
+                <element signature="e#9086#10445#0" expanded="false" />
+                <element signature="e#10535#10656#0" expanded="false" />
+                <element signature="e#10746#10963#0" expanded="false" />
+                <element signature="e#11158#13350#0" expanded="false" />
+                <element signature="e#13498#14114#0" expanded="false" />
+                <element signature="e#14189#14664#0" expanded="false" />
+                <element signature="e#14779#15876#0" expanded="false" />
+                <element signature="e#15936#16227#0" expanded="false" />
+                <element signature="e#16434#18560#0" expanded="false" />
+                <element signature="e#18661#19913#0" expanded="false" />
+                <element signature="e#19979#24423#0" expanded="false" />
+                <element signature="e#24552#25027#0" expanded="false" />
+                <element signature="e#25163#25350#0" expanded="false" />
+                <element signature="e#25424#25590#0" expanded="false" />
+                <element signature="e#25706#27062#0" expanded="false" />
+                <element signature="e#27192#27613#0" expanded="false" />
+                <element signature="e#29337#29865#0" expanded="false" />
+                <element signature="e#29917#30175#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="prepare_pandas.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prepare_pandas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="1411">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="e#438#1273#0" expanded="false" />
+                <element signature="e#1315#2255#0" expanded="false" />
+                <element signature="e#2307#3132#0" expanded="false" />
+                <element signature="e#4778#7559#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/prepare_pandas.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bayesian List Machine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bayesian List Machine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bayesian List Machine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.prepare_pandas">
+    <configuration default="false" name="BRL_code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Bayesian List Machine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BRL_code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonCover" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonCover" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="data_process" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Bayesian List Machine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_process.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="prepare_pandas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Bayesian List Machine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prepare_pandas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Bayesian List Machine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Bayesian List Machine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Bayesian List Machine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Bayesian List Machine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Bayesian List Machine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Bayesian List Machine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Bayesian List Machine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.BRL_code" />
+      <item index="1" class="java.lang.String" itemvalue="Python.data_process" />
+      <item index="2" class="java.lang.String" itemvalue="Python.prepare_pandas" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.prepare_pandas" />
+        <item index="1" class="java.lang.String" itemvalue="Python.BRL_code" />
+        <item index="2" class="java.lang.String" itemvalue="Python.data_process" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ce07fe1-55ec-4837-8ae5-fc119097d17d" name="Default" comment="" />
+      <created>1437010460376</created>
+      <option name="number" value="Default" />
+      <updated>1437010460376</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32705098" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3226164" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2839572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3968958" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/BRL_code.py</url>
+          <line>171</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/prepare.py</url>
+          <line>117</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/BRL_code.py</url>
+          <line>144</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/BRL_code.py</url>
+          <line>659</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="59" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BRL_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3740" max-vertical-offset="4403">
+          <caret line="664" column="12" selection-start-line="664" selection-start-column="12" selection-end-line="664" selection-end-column="12" />
+          <folding>
+            <element signature="e#4801#7605#0" expanded="false" />
+            <element signature="e#7717#7732#0" expanded="false" />
+            <element signature="e#7921#7993#0" expanded="false" />
+            <element signature="e#8214#9019#0" expanded="false" />
+            <element signature="e#9086#10445#0" expanded="false" />
+            <element signature="e#10535#10656#0" expanded="false" />
+            <element signature="e#10746#10963#0" expanded="false" />
+            <element signature="e#11158#13350#0" expanded="false" />
+            <element signature="e#13498#14114#0" expanded="false" />
+            <element signature="e#14189#14664#0" expanded="false" />
+            <element signature="e#14779#15876#0" expanded="false" />
+            <element signature="e#15936#16227#0" expanded="false" />
+            <element signature="e#16434#18560#0" expanded="false" />
+            <element signature="e#18661#19913#0" expanded="false" />
+            <element signature="e#19979#24423#0" expanded="false" />
+            <element signature="e#24552#25027#0" expanded="false" />
+            <element signature="e#25163#25350#0" expanded="false" />
+            <element signature="e#25424#25590#0" expanded="false" />
+            <element signature="e#25706#27062#0" expanded="false" />
+            <element signature="e#27192#27613#0" expanded="false" />
+            <element signature="e#29337#29865#0" expanded="false" />
+            <element signature="e#29917#30175#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare_pandas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#438#1273#0" expanded="false" />
+            <element signature="e#1315#2255#0" expanded="false" />
+            <element signature="e#2307#3132#0" expanded="false" />
+            <element signature="e#4778#7559#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BRL_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3740" max-vertical-offset="4403">
+          <caret line="664" column="12" selection-start-line="664" selection-start-column="12" selection-end-line="664" selection-end-column="12" />
+          <folding>
+            <element signature="e#4801#7605#0" expanded="false" />
+            <element signature="e#7717#7732#0" expanded="false" />
+            <element signature="e#7921#7993#0" expanded="false" />
+            <element signature="e#8214#9019#0" expanded="false" />
+            <element signature="e#9086#10445#0" expanded="false" />
+            <element signature="e#10535#10656#0" expanded="false" />
+            <element signature="e#10746#10963#0" expanded="false" />
+            <element signature="e#11158#13350#0" expanded="false" />
+            <element signature="e#13498#14114#0" expanded="false" />
+            <element signature="e#14189#14664#0" expanded="false" />
+            <element signature="e#14779#15876#0" expanded="false" />
+            <element signature="e#15936#16227#0" expanded="false" />
+            <element signature="e#16434#18560#0" expanded="false" />
+            <element signature="e#18661#19913#0" expanded="false" />
+            <element signature="e#19979#24423#0" expanded="false" />
+            <element signature="e#24552#25027#0" expanded="false" />
+            <element signature="e#25163#25350#0" expanded="false" />
+            <element signature="e#25424#25590#0" expanded="false" />
+            <element signature="e#25706#27062#0" expanded="false" />
+            <element signature="e#27192#27613#0" expanded="false" />
+            <element signature="e#29337#29865#0" expanded="false" />
+            <element signature="e#29917#30175#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare_pandas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2346">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#438#1273#0" expanded="false" />
+            <element signature="e#1315#2255#0" expanded="false" />
+            <element signature="e#2307#3132#0" expanded="false" />
+            <element signature="e#4778#7559#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BRL_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3740" max-vertical-offset="4403">
+          <caret line="664" column="12" selection-start-line="664" selection-start-column="12" selection-end-line="664" selection-end-column="12" />
+          <folding>
+            <element signature="e#4801#7605#0" expanded="false" />
+            <element signature="e#7717#7732#0" expanded="false" />
+            <element signature="e#7921#7993#0" expanded="false" />
+            <element signature="e#8214#9019#0" expanded="false" />
+            <element signature="e#9086#10445#0" expanded="false" />
+            <element signature="e#10535#10656#0" expanded="false" />
+            <element signature="e#10746#10963#0" expanded="false" />
+            <element signature="e#11158#13350#0" expanded="false" />
+            <element signature="e#13498#14114#0" expanded="false" />
+            <element signature="e#14189#14664#0" expanded="false" />
+            <element signature="e#14779#15876#0" expanded="false" />
+            <element signature="e#15936#16227#0" expanded="false" />
+            <element signature="e#16434#18560#0" expanded="false" />
+            <element signature="e#18661#19913#0" expanded="false" />
+            <element signature="e#19979#24423#0" expanded="false" />
+            <element signature="e#24552#25027#0" expanded="false" />
+            <element signature="e#25163#25350#0" expanded="false" />
+            <element signature="e#25424#25590#0" expanded="false" />
+            <element signature="e#25706#27062#0" expanded="false" />
+            <element signature="e#27192#27613#0" expanded="false" />
+            <element signature="e#29337#29865#0" expanded="false" />
+            <element signature="e#29917#30175#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare_pandas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2176">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#438#1273#0" expanded="false" />
+            <element signature="e#1315#2255#0" expanded="false" />
+            <element signature="e#2307#3132#0" expanded="false" />
+            <element signature="e#4778#7559#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BRL_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="13794">
+          <caret line="218" column="0" selection-start-line="218" selection-start-column="0" selection-end-line="218" selection-end-column="0" />
+          <folding>
+            <element signature="e#4801#7605#0" expanded="false" />
+            <element signature="e#7717#7732#0" expanded="false" />
+            <element signature="e#7921#7993#0" expanded="false" />
+            <element signature="e#8214#9019#0" expanded="false" />
+            <element signature="e#9086#10445#0" expanded="false" />
+            <element signature="e#10535#10656#0" expanded="false" />
+            <element signature="e#10746#10963#0" expanded="false" />
+            <element signature="e#11158#13350#0" expanded="false" />
+            <element signature="e#13498#14114#0" expanded="false" />
+            <element signature="e#14189#14664#0" expanded="false" />
+            <element signature="e#14779#15876#0" expanded="false" />
+            <element signature="e#15936#16227#0" expanded="false" />
+            <element signature="e#16434#18560#0" expanded="false" />
+            <element signature="e#18661#19913#0" expanded="false" />
+            <element signature="e#19979#24423#0" expanded="false" />
+            <element signature="e#24552#25027#0" expanded="false" />
+            <element signature="e#25163#25350#0" expanded="false" />
+            <element signature="e#25424#25590#0" expanded="false" />
+            <element signature="e#25706#27062#0" expanded="false" />
+            <element signature="e#27192#27613#0" expanded="false" />
+            <element signature="e#29337#29865#0" expanded="false" />
+            <element signature="e#29917#30175#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="760" max-vertical-offset="1919">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare_pandas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1482" max-vertical-offset="1596">
+          <caret line="78" column="22" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="22" />
+          <folding>
+            <element signature="e#438#1273#0" expanded="false" />
+            <element signature="e#1315#2255#0" expanded="false" />
+            <element signature="e#2307#3132#0" expanded="false" />
+            <element signature="e#4778#7559#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1672" max-vertical-offset="3135">
+          <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="146" selection-end-column="114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BRL_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12342">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#4801#7605#0" expanded="false" />
+            <element signature="e#7717#7732#0" expanded="false" />
+            <element signature="e#7921#7993#0" expanded="false" />
+            <element signature="e#8214#9019#0" expanded="false" />
+            <element signature="e#9086#10445#0" expanded="false" />
+            <element signature="e#10535#10656#0" expanded="false" />
+            <element signature="e#10746#10963#0" expanded="false" />
+            <element signature="e#11158#13350#0" expanded="false" />
+            <element signature="e#13498#14114#0" expanded="false" />
+            <element signature="e#14189#14664#0" expanded="false" />
+            <element signature="e#14779#15876#0" expanded="false" />
+            <element signature="e#15936#16227#0" expanded="false" />
+            <element signature="e#16434#18560#0" expanded="false" />
+            <element signature="e#18661#19913#0" expanded="false" />
+            <element signature="e#19979#24423#0" expanded="false" />
+            <element signature="e#24552#25027#0" expanded="false" />
+            <element signature="e#25163#25350#0" expanded="false" />
+            <element signature="e#25424#25590#0" expanded="false" />
+            <element signature="e#25706#27062#0" expanded="false" />
+            <element signature="e#27192#27613#0" expanded="false" />
+            <element signature="e#29337#29865#0" expanded="false" />
+            <element signature="e#29917#30175#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BRL_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12342">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#4801#7605#0" expanded="false" />
+            <element signature="e#7717#7732#0" expanded="false" />
+            <element signature="e#7921#7993#0" expanded="false" />
+            <element signature="e#8214#9019#0" expanded="false" />
+            <element signature="e#9086#10445#0" expanded="false" />
+            <element signature="e#10535#10656#0" expanded="false" />
+            <element signature="e#10746#10963#0" expanded="false" />
+            <element signature="e#11158#13350#0" expanded="false" />
+            <element signature="e#13498#14114#0" expanded="false" />
+            <element signature="e#14189#14664#0" expanded="false" />
+            <element signature="e#14779#15876#0" expanded="false" />
+            <element signature="e#15936#16227#0" expanded="false" />
+            <element signature="e#16434#18560#0" expanded="false" />
+            <element signature="e#18661#19913#0" expanded="false" />
+            <element signature="e#19979#24423#0" expanded="false" />
+            <element signature="e#24552#25027#0" expanded="false" />
+            <element signature="e#25163#25350#0" expanded="false" />
+            <element signature="e#25424#25590#0" expanded="false" />
+            <element signature="e#25706#27062#0" expanded="false" />
+            <element signature="e#27192#27613#0" expanded="false" />
+            <element signature="e#29337#29865#0" expanded="false" />
+            <element signature="e#29917#30175#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BRL_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12342">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#4801#7605#0" expanded="false" />
+            <element signature="e#7717#7732#0" expanded="false" />
+            <element signature="e#7921#7993#0" expanded="false" />
+            <element signature="e#8214#9019#0" expanded="false" />
+            <element signature="e#9086#10445#0" expanded="false" />
+            <element signature="e#10535#10656#0" expanded="false" />
+            <element signature="e#10746#10963#0" expanded="false" />
+            <element signature="e#11158#13350#0" expanded="false" />
+            <element signature="e#13498#14114#0" expanded="false" />
+            <element signature="e#14189#14664#0" expanded="false" />
+            <element signature="e#14779#15876#0" expanded="false" />
+            <element signature="e#15936#16227#0" expanded="false" />
+            <element signature="e#16434#18560#0" expanded="false" />
+            <element signature="e#18661#19913#0" expanded="false" />
+            <element signature="e#19979#24423#0" expanded="false" />
+            <element signature="e#24552#25027#0" expanded="false" />
+            <element signature="e#25163#25350#0" expanded="false" />
+            <element signature="e#25424#25590#0" expanded="false" />
+            <element signature="e#25706#27062#0" expanded="false" />
+            <element signature="e#27192#27613#0" expanded="false" />
+            <element signature="e#29337#29865#0" expanded="false" />
+            <element signature="e#29917#30175#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BRL_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12342">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#4801#7605#0" expanded="false" />
+            <element signature="e#7717#7732#0" expanded="false" />
+            <element signature="e#7921#7993#0" expanded="false" />
+            <element signature="e#8214#9019#0" expanded="false" />
+            <element signature="e#9086#10445#0" expanded="false" />
+            <element signature="e#10535#10656#0" expanded="false" />
+            <element signature="e#10746#10963#0" expanded="false" />
+            <element signature="e#11158#13350#0" expanded="false" />
+            <element signature="e#13498#14114#0" expanded="false" />
+            <element signature="e#14189#14664#0" expanded="false" />
+            <element signature="e#14779#15876#0" expanded="false" />
+            <element signature="e#15936#16227#0" expanded="false" />
+            <element signature="e#16434#18560#0" expanded="false" />
+            <element signature="e#18661#19913#0" expanded="false" />
+            <element signature="e#19979#24423#0" expanded="false" />
+            <element signature="e#24552#25027#0" expanded="false" />
+            <element signature="e#25163#25350#0" expanded="false" />
+            <element signature="e#25424#25590#0" expanded="false" />
+            <element signature="e#25706#27062#0" expanded="false" />
+            <element signature="e#27192#27613#0" expanded="false" />
+            <element signature="e#29337#29865#0" expanded="false" />
+            <element signature="e#29917#30175#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BRL_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="13794">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#4801#7605#0" expanded="false" />
+            <element signature="e#7717#7732#0" expanded="false" />
+            <element signature="e#7921#7993#0" expanded="false" />
+            <element signature="e#8214#9019#0" expanded="false" />
+            <element signature="e#9086#10445#0" expanded="false" />
+            <element signature="e#10535#10656#0" expanded="false" />
+            <element signature="e#10746#10963#0" expanded="false" />
+            <element signature="e#11158#13350#0" expanded="false" />
+            <element signature="e#13498#14114#0" expanded="false" />
+            <element signature="e#14189#14664#0" expanded="false" />
+            <element signature="e#14779#15876#0" expanded="false" />
+            <element signature="e#15936#16227#0" expanded="false" />
+            <element signature="e#16434#18560#0" expanded="false" />
+            <element signature="e#18661#19913#0" expanded="false" />
+            <element signature="e#19979#24423#0" expanded="false" />
+            <element signature="e#24552#25027#0" expanded="false" />
+            <element signature="e#25163#25350#0" expanded="false" />
+            <element signature="e#25424#25590#0" expanded="false" />
+            <element signature="e#25706#27062#0" expanded="false" />
+            <element signature="e#27192#27613#0" expanded="false" />
+            <element signature="e#29337#29865#0" expanded="false" />
+            <element signature="e#29917#30175#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BRL_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="13794">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#4801#7605#0" expanded="false" />
+            <element signature="e#7717#7732#0" expanded="false" />
+            <element signature="e#7921#7993#0" expanded="false" />
+            <element signature="e#8214#9019#0" expanded="false" />
+            <element signature="e#9086#10445#0" expanded="false" />
+            <element signature="e#10535#10656#0" expanded="false" />
+            <element signature="e#10746#10963#0" expanded="false" />
+            <element signature="e#11158#13350#0" expanded="false" />
+            <element signature="e#13498#14114#0" expanded="false" />
+            <element signature="e#14189#14664#0" expanded="false" />
+            <element signature="e#14779#15876#0" expanded="false" />
+            <element signature="e#15936#16227#0" expanded="false" />
+            <element signature="e#16434#18560#0" expanded="false" />
+            <element signature="e#18661#19913#0" expanded="false" />
+            <element signature="e#19979#24423#0" expanded="false" />
+            <element signature="e#24552#25027#0" expanded="false" />
+            <element signature="e#25163#25350#0" expanded="false" />
+            <element signature="e#25424#25590#0" expanded="false" />
+            <element signature="e#25706#27062#0" expanded="false" />
+            <element signature="e#27192#27613#0" expanded="false" />
+            <element signature="e#29337#29865#0" expanded="false" />
+            <element signature="e#29917#30175#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BRL_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="13794">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#4801#7605#0" expanded="false" />
+            <element signature="e#7717#7732#0" expanded="false" />
+            <element signature="e#7921#7993#0" expanded="false" />
+            <element signature="e#8214#9019#0" expanded="false" />
+            <element signature="e#9086#10445#0" expanded="false" />
+            <element signature="e#10535#10656#0" expanded="false" />
+            <element signature="e#10746#10963#0" expanded="false" />
+            <element signature="e#11158#13350#0" expanded="false" />
+            <element signature="e#13498#14114#0" expanded="false" />
+            <element signature="e#14189#14664#0" expanded="false" />
+            <element signature="e#14779#15876#0" expanded="false" />
+            <element signature="e#15936#16227#0" expanded="false" />
+            <element signature="e#16434#18560#0" expanded="false" />
+            <element signature="e#18661#19913#0" expanded="false" />
+            <element signature="e#19979#24423#0" expanded="false" />
+            <element signature="e#24552#25027#0" expanded="false" />
+            <element signature="e#25163#25350#0" expanded="false" />
+            <element signature="e#25424#25590#0" expanded="false" />
+            <element signature="e#25706#27062#0" expanded="false" />
+            <element signature="e#27192#27613#0" expanded="false" />
+            <element signature="e#29337#29865#0" expanded="false" />
+            <element signature="e#29917#30175#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="950">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="159" max-vertical-offset="731">
+          <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="146" selection-end-column="114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="21937" max-vertical-offset="31806">
+          <caret line="1225" column="0" selection-start-line="1225" selection-start-column="0" selection-end-line="1226" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BRL_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3982" max-vertical-offset="4921">
+          <caret line="664" column="12" selection-start-line="664" selection-start-column="12" selection-end-line="664" selection-end-column="12" />
+          <folding>
+            <element signature="e#4801#7605#0" expanded="false" />
+            <element signature="e#7717#7732#0" expanded="false" />
+            <element signature="e#7921#7993#0" expanded="false" />
+            <element signature="e#8214#9019#0" expanded="false" />
+            <element signature="e#9086#10445#0" expanded="false" />
+            <element signature="e#10535#10656#0" expanded="false" />
+            <element signature="e#10746#10963#0" expanded="false" />
+            <element signature="e#11158#13350#0" expanded="false" />
+            <element signature="e#13498#14114#0" expanded="false" />
+            <element signature="e#14189#14664#0" expanded="false" />
+            <element signature="e#14779#15876#0" expanded="false" />
+            <element signature="e#15936#16227#0" expanded="false" />
+            <element signature="e#16434#18560#0" expanded="false" />
+            <element signature="e#18661#19913#0" expanded="false" />
+            <element signature="e#19979#24423#0" expanded="false" />
+            <element signature="e#24552#25027#0" expanded="false" />
+            <element signature="e#25163#25350#0" expanded="false" />
+            <element signature="e#25424#25590#0" expanded="false" />
+            <element signature="e#25706#27062#0" expanded="false" />
+            <element signature="e#27192#27613#0" expanded="false" />
+            <element signature="e#29337#29865#0" expanded="false" />
+            <element signature="e#29917#30175#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare_pandas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="1411">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#438#1273#0" expanded="false" />
+            <element signature="e#1315#2255#0" expanded="false" />
+            <element signature="e#2307#3132#0" expanded="false" />
+            <element signature="e#4778#7559#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
