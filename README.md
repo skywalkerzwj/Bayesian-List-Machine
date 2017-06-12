@@ -15,5 +15,6 @@ CHADS2 score, actively used in clinical practice for estimating the risk of
 stroke in patients that have atrial fibrillation. Our model is as interpretable as
 CHADS2, but more accurate.
 
-[Intrepretable Classifiers Using Rules and Bayesian Analysis: Building a Better Stroke Prediction Model, The Annals of Applied Statitistics, 2015](https://users.cs.duke.edu/~cynthia/docs/LethamRuMcMa15.pdf)
-[code](https://users.cs.duke.edu/~cynthia/code.html)
+# References
+- [Intrepretable Classifiers Using Rules and Bayesian Analysis: Building a Better Stroke Prediction Model, The Annals of Applied Statitistics, 2015](https://users.cs.duke.edu/~cynthia/docs/LethamRuMcMa15.pdf)
+- [code](https://users.cs.duke.edu/~cynthia/code.html)
